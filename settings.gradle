@@ -1,0 +1,4 @@
+rootProject.name = 'playground'
+include 'annotation-demo'
+include 'async-thread-pool-demo'
+
